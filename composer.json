@@ -1,0 +1,29 @@
+{
+    "name": "jdd\/pandemia",
+    "description": "Pandemia",
+    "type": "library",
+    "license": "LGPL-3.0-or-later",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Jdd\\Pandemia\\": "src\/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Callizaya",
+            "email": "davidcallizaya@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jdd\\Pandemia\\PackageServiceProvider"
+            ]
+        },
+        "icon": "fas fa-atom"
+    },
+    "scripts": {},
+    "require": {}
+}

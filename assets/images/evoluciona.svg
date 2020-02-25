@@ -1,0 +1,11 @@
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="evolve" transform="translate(0.000000, 1.000000)" stroke="#E3342F" stroke-width="0.5">
+            <polygon id="Polygon" fill-opacity="0.5" fill="#D0021B" points="4 7 7.46410162 9 7.46410162 13 4 15 0.535898385 13 0.535898385 9"></polygon>
+            <polygon id="Polygon" fill-opacity="0.5" fill="#D0021B" points="8 0 11.4641016 2 11.4641016 6 8 8 4.53589838 6 4.53589838 2"></polygon>
+            <polygon id="Polygon" fill-opacity="0" fill="#4A4A4A" points="12 7 15.4641016 9 15.4641016 13 12 15 8.53589838 13 8.53589838 9"></polygon>
+        </g>
+    </g>
+</svg>
